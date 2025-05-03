@@ -1,12 +1,12 @@
-// Define HC-SR04 pins for sensor 1
+//  HC-SR04 pins for sensor 1
 #define TRIGGER_PIN1 A0 // Trigger pin for sensor 1
 #define ECHO_PIN1 A1    // Echo pin for sensor 1
 
-// Define HC-SR04 pins for sensor 2
+// HC-SR04 pins for sensor 2
 #define TRIGGER_PIN2 A2 // Trigger pin for sensor 2
 #define ECHO_PIN2 A3    // Echo pin for sensor 2
 
-// Define HC-SR04 pins for sensor 3
+// HC-SR04 pins for sensor 3
 #define TRIGGER_PIN3 A4 // Trigger pin for sensor 3
 #define ECHO_PIN3 A5    // Echo pin for sensor 3
 
@@ -16,7 +16,7 @@
 #define ENB 11 //right motor speed
 #define doorState 12 
 
-// Define IR sensors
+// IR sensors
   #define IR_SENSOR_RIGHT 8
   #define IR_SENSOR_LEFT 9
   #define MOTOR_SPEED 150 //was 100 
