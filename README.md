@@ -34,10 +34,10 @@ https://www.linkedin.com/posts/lakshan-wc-b02993344_robotics-arduino-smartdustbi
 
 ## 👨‍💻 Contributors
 
-- https://github.com/LakshanWC
-- https://github.com/SamiduSamarasinghe
-- https://github.com/Shady0101
-- https://github.com/rukaboy
+- [Samidu](https://github.com/SamiduSamarasinghe)
+- [Lakshan](https://github.com/LakshanWC)
+- [Wasath](https://github.com/Shady0101)
+- [Rukshan](https://github.com/rukaboy)
 
 ---
 > This project was built as part of a coursework project to explore intelligent robotics and sensor-based automation. We welcome feedback !
